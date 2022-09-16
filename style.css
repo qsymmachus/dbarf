@@ -8,6 +8,7 @@ h3 {
 
 table, th, td {
   border: 1px solid black;
+  text-align: center;
 }
 
 th, td {
@@ -16,6 +17,14 @@ th, td {
 
 th {
   background-color: lightgray;
+}
+
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
 }
 
 #container {
