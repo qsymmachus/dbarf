@@ -19,12 +19,8 @@ th {
   background-color: lightgray;
 }
 
-.green {
-  color: green;
-}
-
-.red {
-  color: red;
+.align-left {
+  text-align: left;
 }
 
 #container {
