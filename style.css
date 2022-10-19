@@ -1,9 +1,9 @@
 body {
  font-family: monospace;
- font-size: 1em;
+ font-size: 1.2em;
 }
 
-h3 {
+h2, h3, hr {
   margin-top: 2em;
 }
 
@@ -20,8 +20,20 @@ th {
   background-color: lightgray;
 }
 
+.subheading {
+  margin-top: 0.5em;
+}
+
 .align-left {
   text-align: left;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
 }
 
 #container {
